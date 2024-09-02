@@ -11,7 +11,7 @@ workflows:
       # vars:
       #   PACKAGE_NAME: "io.codemagic.flutteryaml" # <-- Put your package name here
       #   GOOGLE_PLAY_TRACK: "alpha"
-      flutter: stable 3.19.6
+      flutter: 3.19.6-stable
     scripts:
       # - name: Set up local.properties
       #   script: |
