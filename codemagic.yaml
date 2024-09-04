@@ -1,6 +1,6 @@
 workflows:
   android-workflow:
-    name: Android Workflow via YAML Configuration check 04
+    name: Android Workflow via YAML Configuration check 05
     instance_type: mac_mini_m1
     max_build_duration: 120
     environment:
